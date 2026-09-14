@@ -1,7 +1,7 @@
-# 20 - Combinatorial Symmetry Reduction Scheduler (GAP)
+# Combinatorial Symmetry Reduction Scheduler (GAP)
 
 ## Executive Overview
-An industrial job shop scheduling optimizer written in **GAP (Groups, Algorithms, Programming)**. It leverages **computational group theory** and automorphism group actions to identify symmetric, isomorphic sub-problems in scheduling matrices, dramatically pruning exponential search trees.
+An industrial job shop scheduling optimiser written in **GAP (Groups, Algorithms, Programming)**. It leverages **computational group theory** and automorphism group actions to identify symmetric, isomorphic sub-problems in scheduling matrices, dramatically pruning exponential search trees.
 
 ## Symmetry Reduction Architecture
 
