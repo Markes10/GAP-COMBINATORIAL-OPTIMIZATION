@@ -1,0 +1,8 @@
+{
+  "id": "20",
+  "name": "20-gap-combinatorial-optimization",
+  "title": "Industrial Combinatorial Optimization Engine",
+  "language": "GAP",
+  "domain": "Computational Group Theory & Combinatorics",
+  "description": "Exploits permutation group symmetries and automorphism reductions in GAP (Groups, Algorithms, Programming) to prune symmetric search spaces in complex industrial scheduling."
+}
